@@ -9,3 +9,5 @@ A Medicine Recommendation System is a Machine Learning model that can assist hea
 - Feature Extraction: Extract relevant features from the data that can help the system in identifying the right medication for a patient. For example, medical conditions, symptoms, age, gender, weight, allergies, previous medical history, etc.
 - Machine Learning Model Selection: Choose a suitable machine learning algorithm that can learn from the data and recommend the right medication. Popular algorithms include decision trees, random forests, support vector machines, and neural networks.
 - Training the Model: Train the machine learning model on the pre-processed data. Evaluate the performance of the model using appropriate metrics like accuracy, precision, recall, and F1-score. Fine-tune the model by adjusting its hyperparameters to improve its performance.
+
+![image](https://github.com/user-attachments/assets/d8119065-8f17-4137-b517-b4c7e4064e1f)
